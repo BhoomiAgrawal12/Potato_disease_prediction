@@ -1,3 +1,4 @@
+
 # Potato Disease Prediction — Deep Learning-Based Detection App (Flask)
 
 ## Overview
@@ -5,6 +6,8 @@ This project is an AI-powered solution for identifying **potato leaf diseases** 
 
 The app uses a trained CNN model and provides a lightweight, user-friendly interface for real-time predictions, served through a Flask backend.
 
+![Screenshot from 2025-04-26 22-27-10](https://github.com/user-attachments/assets/f1fa0838-b2be-4e85-ba93-45a69ddf0ce4)
+![Screenshot from 2025-04-26 22-28-03](https://github.com/user-attachments/assets/8ef9b857-0ec8-4671-88b7-74169fb1240f)
 ## Features
 - **CNN-based classification model** for leaf image diagnosis  
 - Supports detection of common potato diseases  
